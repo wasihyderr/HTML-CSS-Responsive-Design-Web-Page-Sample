@@ -1,0 +1,313 @@
+.peopleperhour-1-icon {
+  position: relative;
+  width: 197.57px;
+  height: 32.15px;
+  object-fit: cover;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.search {
+  position: relative;
+  letter-spacing: 0.04em;
+}
+.searchdropd {
+  border-radius: 2px;
+  background-color: var(--color-whitesmoke);
+  border: 0.8px solid var(--color-skyblue);
+  box-sizing: border-box;
+  height: 40.8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 25.600000381469727px 29.600000381469727px;
+  color: var(--color-skyblue);
+}
+.how-it-works {
+  position: relative;
+  font-weight: 600;
+}
+.rightbuttons-child {
+  position: relative;
+  border-right: 0.8px solid #c7c9ce;
+  box-sizing: border-box;
+  width: 0.8px;
+  height: 48.8px;
+}
+.freelancer {
+  position: relative;
+  font-weight: 600;
+  color: #fe780b;
+}
+.vector-icon {
+  position: relative;
+  width: 32px;
+  height: 2px;
+}
+.hamburger {
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 6px 0;
+  gap: 7px;
+}
+.rightbuttons,
+.topnav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.rightbuttons {
+  justify-content: flex-start;
+  gap: 28px;
+}
+.topnav {
+  align-self: stretch;
+  height: 69.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-13xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-smi-8);
+  color: var(--color-dimgray);
+}
+.technology-programming {
+  position: relative;
+  font-weight: 500;
+}
+.droplinks,
+.links {
+  background-color: var(--color-white);
+  border: 0.8px solid var(--color-silver-100);
+  box-sizing: border-box;
+  overflow-x: auto;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.links {
+  align-self: stretch;
+  height: 37.8px;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-13xl);
+}
+.droplinks {
+  width: 960.8px;
+  height: 342.8px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 15px var(--padding-13xl);
+}
+.dropdown,
+.dropper,
+.navbar {
+  flex-shrink: 0;
+  align-items: center;
+}
+.dropper {
+  background-color: var(--color-white);
+  height: 341px;
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 70px 0;
+  box-sizing: border-box;
+}
+.dropdown,
+.navbar {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.dropdown {
+  background-color: var(--color-white);
+  border: 0.8px solid var(--color-silver-100);
+  box-sizing: border-box;
+  height: 37.8px;
+  overflow-x: auto;
+  display: none;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-13xl);
+  gap: 16px;
+}
+.navbar {
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 1.600000023841858px 1.6px #bac2d1;
+  height: 107px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.make-bright {
+  margin: 0;
+}
+.make-bright-ideas-container {
+  position: relative;
+  font-weight: 900;
+}
+.herotext {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.access-global-talent {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 430.92px;
+  flex-shrink: 0;
+}
+.herosubtext {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 18.63px;
+  color: #000;
+  font-family: var(--font-open-sans);
+}
+.searchbox,
+.taggedside {
+  position: absolute;
+  left: 0;
+}
+.searchbox {
+  border: 0;
+  background-color: var(--color-white);
+  top: 0.4px;
+  border-radius: 16.83px 0 0 16.83px;
+  box-shadow: 0 1.619999885559082px 3.24px rgba(0, 0, 0, 0.25);
+  width: 364px;
+  height: 70px;
+}
+.taggedside {
+  top: 0;
+  border-radius: 0 16.83px 16.83px 0;
+  background-color: var(--color-orange);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 76.95px;
+  height: 70.47px;
+}
+.searchicon {
+  position: absolute;
+  top: 16.2px;
+  left: 18.63px;
+  width: 38.88px;
+  height: 38.88px;
+  overflow: hidden;
+}
+.searchbutton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 364.5px;
+  width: 76.95px;
+  height: 70.47px;
+}
+.search1 {
+  position: relative;
+  width: 441.45px;
+  height: 81px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.lefthero {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20.25px;
+}
+.picture-icon {
+  position: relative;
+  width: 461.7px;
+  height: 461.7px;
+  object-fit: cover;
+}
+.righthero {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hero,
+.peepsperhour {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.hero {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 41px 133px;
+  font-size: 60.94px;
+  color: var(--color-orange);
+  font-family: var(--font-nunito);
+}
+.peepsperhour {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 1024px;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-xs-2);
+  color: var(--color-lightslategray);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 960px) {
+  .freelancer,
+  .how-it-works,
+  .rightbuttons-child,
+  .searchdropd {
+    display: none;
+  }
+  .hamburger {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+  }
+  .topnav {
+    gap: 650px;
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .links {
+    display: none;
+  }
+  .dropdown,
+  .dropdown:active .dropper {
+    display: flex;
+  }
+  .navbar {
+    flex: 1;
+  }
+  .hero,
+  .navbar {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 420px) {
+  .lefthero {
+    width: auto;
+    align-self: unset;
+    align-items: center;
+    justify-content: flex-start;
+  }
+}

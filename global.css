@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-nunito: Nunito;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xs-2: 11.2px;
+  --font-size-smi-8: 12.8px;
+
+  /* Colors */
+  --color-whitesmoke: #f5f7fa;
+  --color-orange: #ffae11;
+  --color-white: #fff;
+  --color-silver-100: #c0c7d3;
+  --color-lightslategray: #818997;
+  --color-dimgray: #67696e;
+  --color-skyblue: #34a8ca;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-13xl: 32px;
+
+  /* Border radiuses */
+  --br-base-8: 16.8px;
+}
